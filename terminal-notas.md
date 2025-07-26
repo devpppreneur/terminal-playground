@@ -1,4 +1,4 @@
-#Comandos Kit Supervivencia Consola
+# Comandos Kit Supervivencia Consola
 
 | Comando | Significado | Ejemplo |
 |---------|-------------|---------|
